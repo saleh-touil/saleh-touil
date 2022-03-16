@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saleh-touil" alt="saleh-touil" /></a> </p>
 
-- 🔭 I’m currently working on **Malwares these dayz**
+- 🔭 I’m currently working on **CTFs these dayz**
 
-- 🌱 I’m currently learning **C#,C++ and Javascript**
+- 🌱 I’m currently learning **JAVA,C++ and Python**
 
 - 👯 I’m looking to collaborate on **Pentesting and Reverse Engineering**
-
-- 🤝 I’m looking for help with **Encryptin my malwares**
 
 - 💬 Ask me about **Anything :)**
 
