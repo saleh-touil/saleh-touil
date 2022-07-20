@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/saleh_touil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saleh_touil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/saleh_on_da_flow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saleh_on_da_flow" height="30" width="40" /></a>
-<a href="https://fb.com/radical_saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radical_saleh" height="30" width="40" /></a>
+<a href="https://fb.com/D1BUG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radical_saleh" height="30" width="40" /></a>
 <a href="https://instagram.com/saleh_on_da_flow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saleh_on_da_flow" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chillinintunisia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chillinintunisia" height="30" width="40" /></a>
 </p>
